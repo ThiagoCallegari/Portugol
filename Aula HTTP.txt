@@ -1,0 +1,6 @@
+inserir = create
+recuperar = read
+atualizar = update
+excluir = delete
+
+
