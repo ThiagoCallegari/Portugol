@@ -3,11 +3,10 @@ programa
 	
 	funcao inicio()
 	{
-		real N = 0.0, A[100]
+		real A[100]
 
 		para (inteiro i=0; i<100; i++) {
-			leia(N)
-			A[i] = N
+			leia(A[i])
 		}
 
 		para (inteiro i=0; i<100; i++) {
@@ -22,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 146; 
+ * @POSICAO-CURSOR = 128; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
